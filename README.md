@@ -41,13 +41,13 @@ Despite its severity, early detection remains a challenge due to sepsis' syndrom
 ### Patient Distribution
 - Total patients: 40,336
 - Sepsis incidence: 7.27% (2,932 patients)
-- Non-sepsis patients: 92.73% (37,404 patients)
+- Non-sepsis patients: 98.94% (37,404 patients)
 
 ### ICU Admissions
 - MICU sepsis admissions: 1.5% (189 patients)
 - SICU sepsis admissions: 2.97% (87 out of 2,932 patients)
-- Non-sepsis MICU admissions: 11,301 patients
-- Non-sepsis non-MICU admissions: 11,802 patients
+- Non-sepsis MICU admissions: 12,078 patients
+- Non-sepsis SICU admissions: 12,365 patients
 
 ### Gender Distribution
 - Female patients: 44.05%
