@@ -77,7 +77,7 @@ This demographic analysis provides crucial insights into patient distribution, s
 
 ## Lactate Analysis
 
-Lactate Monitoring focuses on tracking lactate levels in ICU patients to assess sepsis risk and treatment response. Lactate is a key biomarker of tissue oxygenation, and its elevation is often linked to poor outcomes.
+Lactate Monitoring focuses on tracking lactate levels in ICU patients to assess sepsis risk and treatment response. Lactate is a key biomarker of tissue oxygenation, and its elevation is often linked to high risk.
 
 <img width="926" alt="Lactate analysis" src="https://github.com/user-attachments/assets/fe171d7a-8c2e-47ad-ac8e-0328049f07f0" />
 
